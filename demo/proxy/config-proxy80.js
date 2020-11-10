@@ -7,7 +7,7 @@
 - 本例为 `https://localhost` 的请求代理到 将上述`mock_proxy`的服务`http://localhost:8080`
 ###
 
-npm run proxy80`(win)
+npm run proxy80
 
  */
 
